@@ -26,7 +26,7 @@ col1, mid, col2 = st.columns([10,50,10])
 with col1:
     st.image(heart_im,width=120)
 with mid:
-    st.markdown("<h1 style='text-align: center; color: black;'>3er Contrato de Renovación!</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: white;'>3er Contrato de Renovación!</h1>", unsafe_allow_html=True)
 with col2:
     st.image(parral_im,width=200)
 
